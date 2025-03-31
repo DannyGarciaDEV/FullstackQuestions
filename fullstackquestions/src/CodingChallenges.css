@@ -1,7 +1,7 @@
 /* CodingChallenges.css */
 .coding-challenges-container {
     max-width: 800px;
-    margin: 0 auto;
+    margin: 62px auto;
     padding: 20px;
     font-family: Arial, sans-serif;
     background: #f8f9fa;
@@ -68,6 +68,6 @@
   }
 
 textarea{
-    width:200px;
+    width:400px;
     height: 300px;
 }
