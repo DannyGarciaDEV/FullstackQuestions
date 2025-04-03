@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './ChatBot.css';
 
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '';
 
 function ChatBot() {
   const [messages, setMessages] = useState([]);
