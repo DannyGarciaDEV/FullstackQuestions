@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './ChatBot.css';
 
-const OPENAI_API_KEY = '';
 
 function ChatBot() {
   const [messages, setMessages] = useState([]);
